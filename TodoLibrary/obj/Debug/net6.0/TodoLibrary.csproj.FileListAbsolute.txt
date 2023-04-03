@@ -1,0 +1,24 @@
+C:\pixer\Tim Full\TodoApp\TodoLibrary\bin\Debug\net6.0\TodoLibrary.deps.json
+C:\pixer\Tim Full\TodoApp\TodoLibrary\bin\Debug\net6.0\TodoLibrary.dll
+C:\pixer\Tim Full\TodoApp\TodoLibrary\bin\Debug\net6.0\TodoLibrary.pdb
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.csproj.AssemblyReference.cache
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.AssemblyInfoInputs.cache
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.AssemblyInfo.cs
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.csproj.CoreCompileInputs.cache
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.dll
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\refint\TodoLibrary.dll
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.pdb
+C:\pixer\Tim Full\TodoApp\TodoLibrary\obj\Debug\net6.0\ref\TodoLibrary.dll
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\bin\Debug\net6.0\TodoLibrary.deps.json
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\bin\Debug\net6.0\TodoLibrary.dll
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\bin\Debug\net6.0\TodoLibrary.pdb
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.csproj.AssemblyReference.cache
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.AssemblyInfoInputs.cache
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.AssemblyInfo.cs
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.csproj.CoreCompileInputs.cache
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.dll
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\refint\TodoLibrary.dll
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\TodoLibrary.pdb
+G:\WEB API PROJECT\Practice\TodoApp\TodoLibrary\obj\Debug\net6.0\ref\TodoLibrary.dll
